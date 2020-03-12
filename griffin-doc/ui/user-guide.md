@@ -166,7 +166,7 @@ After the processing work has done, here are 3 ways to show the data diagram.
    <img src="../img/userguide/right bar.png" height="500px" >
 
 ## References
-###Six core data quality dimensions
+### Six core data quality dimensions
 
 *Content adapted from [THE SIX PRIMARY DIMENSIONS FOR DATA QUALITY ASSESSMENT](http://www.damauk.org/RWFilePub.php?&cat=403&dx=1&ob=3&rpn=catviewleafpublic403&id=106193), DAMA, UK*
 
